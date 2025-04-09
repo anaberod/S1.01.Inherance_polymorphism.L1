@@ -1,4 +1,6 @@
-Java OOP Exercises: Instruments & Car Class
+Java OOP Exercises: 
+Instruments & Car Class
+
 This repository contains two Java exercises designed to practice and reinforce Object-Oriented Programming (OOP) concepts in Java, specifically focusing on inheritance, polymorphism, and the use of static and final keywords.
 
 📄 Description - Exercise Statements
