@@ -39,8 +39,7 @@ Clone the repository (optional):
 
 bash
 
-git clone https://github.com/anaberod/S1.01.Inherance_polymorphism.L1/tree/209d11bd088a1dabda83f5aa2075c62c8e52a2c6/EX2
-
+git clone https://github.com/anaberod/S1.01.Inherance_polymorphism.L1.git
 Open the project in your preferred IDE or text editor.
 
 Make sure the correct JDK is set up for the project.
