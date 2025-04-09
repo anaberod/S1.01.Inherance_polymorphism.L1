@@ -33,7 +33,7 @@ Basic understanding of OOP (Object-Oriented Programming) in Java
 
 🛠️ Installation
 
-Clone the repository (if applicable): https://github.com/anaberod/S1.01.Inherance_polymorphism.L1/tree/209d11bd088a1dabda83f5aa2075c62c8e52a2c6/EX1
+Clone the repository (if applicable): https://github.com/anaberod/S1.01.Inherance_polymorphism.L1.git
 
 Open the project in your preferred IDE.
 
