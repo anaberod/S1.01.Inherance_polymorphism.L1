@@ -59,9 +59,9 @@ You should see messages indicating which instrument is playing and when class lo
 This is a local Java project for learning purposes. No deployment to a server or production environment is required. You can package it into a .jar file if needed using:
 
 bash
-Copiar
-Editar
+
 jar cfe instruments.jar Main *.class
+
 🤝 Contributing
 
 If you'd like to contribute:
